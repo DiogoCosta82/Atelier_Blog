@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo1 {
+  height: 1em;
+  padding: 1.5em;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+h3 {
+  color: brown;
+  text-align: center;
+}
+
+.texteP {
+  color: black;
+}
+
+.article {
+  display: flex;
+  gap: 50px;
+  text-align: justify;
+}
